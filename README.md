@@ -3,7 +3,7 @@ A passport strategy for Figma authentication.
 Has support for profile information compared to [passport-figma]('https://github.com/LiamMartens/passport-figma')
 
 ### Install
-```bash npm install passport-figma```
+```npm install passport-figma2```
 
 ### Usage of OAuth 2.0
 
