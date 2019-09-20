@@ -1,5 +1,5 @@
 {
-  "name": "passport-figma",
+  "name": "passport-figma2",
   "version": "1.0.0",
   "description": "Figma OAuth Strategy for Passport",
   "main": "./lib/passport-figma",
@@ -18,7 +18,6 @@
   ],
   "author": "Emil Widlund",
   "license": "MIT",
-  "dependencies": {
     "passport-oauth2": "^1.5.0",
     "pkginfo": "^0.4.1"
   }
