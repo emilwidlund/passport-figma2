@@ -1,5 +1,5 @@
 {
-  "name": "passport-figma",
+  "name": "passport-figma2",
   "version": "1.0.0",
   "description": "Figma OAuth Strategy for Passport",
   "main": "./lib/passport-figma",
