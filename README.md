@@ -1,6 +1,6 @@
 # passport-figma2
 A passport strategy for Figma authentication.
-Has support for profile information compared to [passport-figma]('https://github.com/LiamMartens/passport-figma')
+Has support for profile information compared to [passport-figma](https://github.com/LiamMartens/passport-figma)
 
 ### Install
 ```npm install passport-figma2```
