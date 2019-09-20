@@ -1,0 +1,25 @@
+{
+  "name": "passport-figma",
+  "version": "1.0.0",
+  "description": "Figma OAuth Strategy for Passport",
+  "main": "./lib/passport-figma",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "passport",
+    "figma",
+    "strategy",
+    "oauth",
+    "oauth2",
+    "auth",
+    "authentication",
+    "identity"
+  ],
+  "author": "Emil Widlund",
+  "license": "MIT",
+  "dependencies": {
+    "passport-oauth2": "^1.5.0",
+    "pkginfo": "^0.4.1"
+  }
+}
