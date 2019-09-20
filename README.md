@@ -13,7 +13,7 @@ var session        = require('express-session');
 var cookieParser   = require('cookie-parser');
 var bodyParser     = require("body-parser");
 var passport       = require("passport");
-var FigmaStrategy = require('./lib/passport-figma').Strategy;
+var FigmaStrategy = require('passport-figma').Strategy;
 
 const app = express();
 
